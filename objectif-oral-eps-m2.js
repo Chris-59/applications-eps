@@ -28,7 +28,11 @@
     if (!box || box.getAttribute("data-monte")) return;
     box.setAttribute("data-monte", "1");
     var barre = document.createElement("div");
-    barre.style.cssText = "display:flex;flex-wrap:wrap;gap:8px;justify-content:flex-end;margin:0 0 6px";
+    barre.style.cssText = "display:flex;flex-wrap:wrap;gap:8px;align-items:center;justify-content:flex-end;margin:0 0 6px";
+    var maj = document.createElement("span");
+    maj.textContent = "Mise \u00e0 jour : 3 novembre 2026, 18 h 10";
+    maj.style.cssText = "margin-right:auto;font:13px/1.3 system-ui,sans-serif;color:#4E5C6D";
+    barre.appendChild(maj);
     var bDl = bouton("\u2B07 T\u00E9l\u00E9charger l'application (.html)", false);
     bDl.title = "Pour l'utiliser sans connexion : ouvrez le fichier dans votre navigateur";
     bDl.onclick = telecharger;

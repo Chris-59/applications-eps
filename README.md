@@ -6,6 +6,8 @@ Applications de Christophe Honthaas (formateur EPS, Faculté d'Éducation de Per
 |---|---|
 | `objectif-oral-eps-l3.js` | Objectif oral EPS · L3 (CRPE bac+3) |
 | `objectif-oral-eps-m2.js` | Objectif oral EPS · M2 (CRPE bac+5) |
+| `enseigner-eps-m1-m2e.js` | Enseigner l'EPS M2E · M1 M2E, oral de l'UE 101.2 |
+| `enseigner-eps-m2-m2e.js` | Enseigner l'EPS M2 M2E · M2 M2E et PES, DM de séquence (ECUE 301.2 et 401.2) |
 
 Chaque fichier contient l'application entière. Pour l'afficher dans une page web :
 

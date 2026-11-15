@@ -11,6 +11,7 @@ Applications de Christophe Honthaas (formateur EPS, Faculté d'Éducation de Per
 | `objectif-eps-m1-pefe.js` | Objectif EPS · M1 PEFE · DST d'EPS de l'ECUE 101.2 et application L3 complète (CRPE bac+3) |
 | `objectif-eps-l2.js` | Objectif EPS · L2 · ECUE 302.3 (évaluation du 15 décembre, TD, fiche de préparation) et application L3 complète, avec un parcours sur deux ans jusqu'au CRPE bac+3 (session 2028) |
 | `objectif-eps-l1.js` | Objectif EPS · L1 · ECUE 102.3 (évaluation des séances 8 et 9, 3 et 8 décembre ; TD, fiche de préparation, planning des groupes) et application L3 complète, avec un parcours sur trois ans jusqu'au CRPE bac+3 (session 2029) |
+| `visites-sipa-tuteur.js` | Visites de stage SIPA · outil du tuteur universitaire (observation, chronomètre, entretien, UE 306 et UE 405, bulletin). Notes enregistrées dans le navigateur uniquement |
 
 Chaque fichier contient l'application entière. Pour l'afficher dans une page web :
 

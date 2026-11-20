@@ -17,7 +17,7 @@
     var barre = document.createElement("div");
     barre.style.cssText = "display:flex;flex-wrap:wrap;gap:8px;align-items:center;justify-content:flex-end;margin:0 0 6px";
     var maj = document.createElement("span");
-    maj.textContent = "Mise \u00e0 jour : 20 novembre 2026, 19 h 07";
+    maj.textContent = "Mise \u00e0 jour : 20 novembre 2026, 19 h 08";
     maj.style.cssText = "margin-right:auto;font:13px/1.3 system-ui,sans-serif;color:#5A606B";
     barre.appendChild(maj);
     var bPe = bouton("\u26F6 Plein \u00E9cran", true);

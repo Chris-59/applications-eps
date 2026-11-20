@@ -15,6 +15,7 @@ Applications de Christophe Honthaas (formateur EPS, Faculté d'Éducation de Per
 | `evaluation-ue508-oral-dm.js` | Évaluation UE 508 (L3) · outil du formateur : grilles de l'oral et du DM à quatre niveaux, une fiche par étudiant, impression PDF et Word, tableau récapitulatif. Notes enregistrées dans le navigateur uniquement |
 | `evaluation-l1-ecue-102-3.js` | Évaluation L1 (ECUE 102.3) · outil du formateur : grille à six critères et quatre niveaux, notée par sous-groupe avec le critère 4 (mise en œuvre, quitus) individuel, une fiche par étudiant, impression PDF et Word, tableau récapitulatif. Notes enregistrées dans le navigateur uniquement |
 | `evaluation-l2-ecue-302-3.js` | Évaluation L2 (ECUE 302.3) · outil du formateur : même grille à six critères et quatre niveaux, mise en situation de 20 minutes notée par groupe avec le critère 4 (mise en œuvre, quitus) individuel, une fiche par étudiant, impression PDF et Word, tableau récapitulatif. Notes enregistrées dans le navigateur uniquement |
+| `evaluation-ue506-2-ecrit-reflexif.js` | Évaluation de l'écrit réflexif UE 506.2 (L3) · outil du formateur : grille à sept critères et quatre niveaux, deux curseurs (langue, cohérence), une fiche par copie, relevé des notes, fiches et relevé en PDF (bibliothèques dans `lib/`), export CSV. Notes enregistrées dans le navigateur uniquement |
 
 Chaque fichier contient l'application entière. Pour l'afficher dans une page web :
 

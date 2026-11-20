@@ -13,6 +13,7 @@ Applications de Christophe Honthaas (formateur EPS, Faculté d'Éducation de Per
 | `objectif-eps-l1.js` | Objectif EPS · L1 · ECUE 102.3 (évaluation des séances 8 et 9, 3 et 8 décembre ; TD, fiche de préparation, planning des groupes) et application L3 complète, avec un parcours sur trois ans jusqu'au CRPE bac+3 (session 2029) |
 | `visites-sipa-tuteur.js` | Visites de stage SIPA · outil du tuteur universitaire (observation, chronomètre, entretien, UE 306 et UE 405, bulletin). Notes enregistrées dans le navigateur uniquement |
 | `evaluation-ue508-oral-dm.js` | Évaluation UE 508 (L3) · outil du formateur : grilles de l'oral et du DM à quatre niveaux, une fiche par étudiant, impression PDF et Word, tableau récapitulatif. Notes enregistrées dans le navigateur uniquement |
+| `evaluation-l1-ecue-102-3.js` | Évaluation L1 (ECUE 102.3) · outil du formateur : grille à six critères et quatre niveaux, notée par sous-groupe avec le critère 4 (mise en œuvre, quitus) individuel, une fiche par étudiant, impression PDF et Word, tableau récapitulatif. Notes enregistrées dans le navigateur uniquement |
 
 Chaque fichier contient l'application entière. Pour l'afficher dans une page web :
 

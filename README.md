@@ -7,6 +7,7 @@ Applications de Christophe Honthaas (formateur EPS, Faculté d'Éducation de Per
 | `objectif-oral-eps-l3.js` | Objectif oral EPS · L3 (CRPE bac+3) |
 | `objectif-oral-eps-m2.js` | Objectif oral EPS · M2 (CRPE bac+5) |
 | `crpe-m2-eps.js` | CRPE M2 EPS (100 % concours, sans TD ni suivi de stage) : relances du jury tirées une par une, grille à quatre niveaux (exposé et entretien), second essai sur un sujet parallèle, « Observer avant d'agir », « Améliorer une séance », mini-cas de positionnement, flashcards « Essentiel pour l'oral ». Page crpe-m2-eps.html de l'espace CRPE EPS (non indexé) |
+| `crpe-l3-eps.js` | CRPE L3 EPS (100 % concours, sans les TD ni les UE du 1er semestre) : relances du jury tirées une par une, grille à quatre niveaux adaptée à l'épreuve bac+3, second essai sur une question du même type, mini-cas de positionnement, flashcards « Essentiel pour l'oral », distracteurs de quiz revus. Page crpe-l3-eps.html de l'espace CRPE EPS |
 | `enseigner-eps-m1-m2e.js` | Enseigner l'EPS M2E · M1 M2E, oral de l'UE 101.2 |
 | `enseigner-eps-m2-m2e.js` | Enseigner l'EPS M2 M2E · M2 M2E et PES, DM de séquence (ECUE 301.2 et 401.2) |
 | `objectif-eps-m1-pefe.js` | Objectif EPS · M1 PEFE · DST d'EPS de l'ECUE 101.2 et application L3 complète (CRPE bac+3) |

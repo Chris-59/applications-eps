@@ -1,6 +1,6 @@
 {
-  "_aide": "Réglages de l'application Autoformation EPS · M1 PEFE. Chaque formateur peut choisir son site avec data-site dans la page, par exemple data-site=\"nimes\". Un site sans courriel n'affiche pas l'envoi des résultats (autoformation sans suivi). Pour masquer les Sujets d'entretien : \"entretien\": \"0\" (partout) ou dans un site. Pour imposer le menu complet : \"mode\": \"complet\". Pour masquer d'autres rubriques : \"masque\": [\"glossaire\", \"bonsplans\"] (identifiants : programmes, glossaire, dev, bonsplans, flashcards, tuto, cultures, sujets, entretien...). L'espace formateur propose les cases à décocher et fournit le code à coller.",
-  "mode": "essentiel",
+  "_aide": "Réglages de l'application Autoformation EPS · M1 PEFE. Chaque formateur peut choisir son site avec data-site dans la page, par exemple data-site=\"nimes\". Un site sans courriel n'affiche pas l'envoi des résultats (autoformation sans suivi). Pour masquer les Sujets d'entretien : \"entretien\": \"0\" (partout) ou dans un site. Pour imposer le menu complet : \"mode\": \"complet\" (par défaut : mode concours). Pour masquer d'autres rubriques : \"masque\": [\"glossaire\", \"bonsplans\"] (identifiants : programmes, glossaire, dev, bonsplans, flashcards, tuto, cultures, sujets, entretien...). L'espace formateur propose les cases à décocher et fournit le code à coller.",
+  "mode": "concours",
   "entretien": "1",
   "sites": {
     "perpignan": {

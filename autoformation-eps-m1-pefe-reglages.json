@@ -16,7 +16,14 @@
       "courriel": ""
     }
   },
-  "_aide_relectures": "Pour marquer une fiche APSA comme relue : \"Nom exact de la fiche\": { \"par\": \"Prénom Nom\", \"le\": \"AAAA-MM-JJ\" }. Sans date, la relecture est seulement confiée (visible dans l'espace formateur). Une clé \"champ 1\" à \"champ 4\" confie tout un champ d'apprentissage.",
+  "_aide_relectures": "Liste des relecteurs proposés dans les menus déroulants de l'espace formateur : \"relecteurs\". Répartition publiée : \"relectures\", à remplacer par le code copié depuis l'espace formateur. Une fiche est marquée « relue » quand le relecteur et la date (\"le\": \"AAAA-MM-JJ\") sont renseignés.",
   "relectures": {},
-  "masque": []
+  "masque": [],
+  "relecteurs": [
+    "Simon Isserte",
+    "Christophe Honthaas",
+    "Benoit Durand",
+    "Florent Siclet",
+    "Arnaud Compan"
+  ]
 }
